@@ -1,1 +1,2 @@
  In this Project, the data from public source has been used to forecast the gold price using time series analysis. The data has been processed, visualized and cleaned. Then using time series we tried to understand the data and used residuals to fit the data and checked different time series model to find lowest AIC without loss of proficiency. After filling the model we forecast the result and It seemed to work fine.
+#The Presentation File is the description of the process
